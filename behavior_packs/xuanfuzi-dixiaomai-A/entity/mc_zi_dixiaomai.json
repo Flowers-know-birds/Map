@@ -1,0 +1,5 @@
+/*---------------------资源包接口归微软所有
+------------------------悬浮字 作者：dixiaomai
+------------------------联系：QQ2743063754*/
+
+{"format_version": "1.8.0","minecraft:client_entity": {"description": {"identifier": "\u006d\u0063:\u007a\u0069_\u0064\u0069\u0078\u0069\u0061\u006f\u006d\u0061\u0069","spawn_egg": {"texture": "\u006d\u0063:\u007a\u0069_\u0064\u0069\u0078\u0069\u0061\u006f\u006d\u0061\u0069","texture_index": 0},"render_controllers": ["controller.render.armor_stand"],"enable_attachables": true}}}

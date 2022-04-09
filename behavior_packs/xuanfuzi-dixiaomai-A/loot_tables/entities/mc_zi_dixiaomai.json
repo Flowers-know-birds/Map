@@ -1,0 +1,5 @@
+/*---------------------行为包接口归微软所有
+------------------------悬浮字 作者：dixiaomai
+------------------------联系：QQ2743063754*/
+
+{"id": "1630992854568","name": "1630992854568","pools": [{"rolls": 0,"entries": [{"type": "item","weight": 1,"name": "minecraft:air","functions": [{"function": "set_count","count": {"min": 1,"max": 1}},{"enchantments": [],"function": "enchant_randomly"}]}]}]}

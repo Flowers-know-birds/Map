@@ -1,0 +1,19 @@
+{
+   "format_version" : 1,
+   "header" : {
+      "description" : "MINECRAFTPE-MCPEDL Ported by JeridGamer",
+      "name" : "CMM",
+      "platform_locked" : false,
+      "uuid" : "a66e0322-343a-4d85-8332-1c26314f0194",
+      "version" : [ 1, 4, 0 ]
+   },
+   "min_engine_version" : [ 1, 4, 0, 1, 2, 5 ],
+   "modules" : [
+      {
+         "description" : "MINECRAFTPE-MCPEDL Ported by JeridGamer",
+         "type" : "resources",
+         "uuid" : "47ad8f95-91ea-46d8-b3c4-952675b5d49c",
+         "version" : [ 1, 4, 0 ]
+      }
+   ]
+}

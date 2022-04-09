@@ -1,0 +1,12 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "egg_camel": {
+      "textures": "textures/items/egg_camel"
+    },
+    "mc:zi_\u0064\u0069\u0078\u0069\u0061\u006f\u006d\u0061\u0069": {
+      "textures": "textures/items/egg_enderman"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "简单的悬浮字，是更好的介绍内容。",
+    "name": "实体悬浮字 基岩版。",
+    "uuid": "5f129965-de48-6479-11cc-26f5d1927ef3",
+    "version": [1,2,0]
+  },
+  "modules": [
+    {
+      "description": "简单的悬浮字，是更好的介绍内容。",
+      "type": "resources",
+      "uuid": "ea552526-90cb-059b-1741-8f0a60caa8c7",
+      "version": [1,2,0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "ac86015d-c6b6-bfe0-8492-7f94775517a4",
+      "version": [1,2,0]
+    }
+  ]
+}
